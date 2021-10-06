@@ -1,20 +1,20 @@
-# 2021-07-13补充
+## 2021-07-13补充
 
 2020年9月，DGL社区的一群热心贡献者把DGL用户指南译成了中文，方便广大中文用户群学习和使用DGL，这里贴下他们的地址:<br>
 
 https://docs.dgl.ai/en/0.6.x/api/python/
 
-# DGL_Chinese_Manual（DGL中文文档）
+## DGL_Chinese_Manual（DGL中文文档）
 This is the Chinese manual of the graph neural network library DGL, contains the User Guide and Model Tutorials.
 
 Based on DGL English document：https://docs.dgl.ai/index.html
 
-## Written in the front
+### Written in the front
 I uploaded the word version and the pdf version at the same time, you can use it at will. 
 But I hope you can point out the source when you use it. 
 After all, translation is not easy (although I use a translation tool...).
 
-## User Guide
+### User Guide
 
 For each section, I have made a more detailed division according to the title. 
 The main translation tools are Youdao Translate tools and Google Translate tools. 
@@ -132,7 +132,7 @@ begin 安装	4<br>
       ---7.2.6 分割工作量	83<br>
     7.3	用于启动分布式训练/推理的工具	83<br>
 
-## Model Tutorials
+### Model Tutorials
 
 I have completed the translation of Model Tutorials.Since many pictures in the official documents are invalid, 
 so I marked the invalid places. In this document, you will find that in some places I directly use the original English text, 
