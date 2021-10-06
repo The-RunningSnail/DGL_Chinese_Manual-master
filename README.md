@@ -1,4 +1,10 @@
-## 2021-07-13补充
+## 2021-10-06
+
+DGL的API集合：
+
+[DGL官方教程--API--dgl.DGLGraph_Minions的博客-CSDN博客](https://blog.csdn.net/qq_33148001/article/details/105058287)
+
+## 2021-07-13
 
 2020年9月，DGL社区的一群热心贡献者把DGL用户指南译成了中文，方便广大中文用户群学习和使用DGL，这里贴下他们的地址:<br>
 
